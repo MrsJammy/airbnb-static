@@ -1,7 +1,7 @@
 #footer {
-  background: #333333;
+  background: $gray-dark;
   padding: 30px;
-  color: #CCCCCC;
+  color: $gray-lighter;
 }
 
 
@@ -11,6 +11,6 @@
 }
 
 #footer i:hover {
-  color: yellow;
+  color: $yellow;
   cursor: not-allowed;
 }
